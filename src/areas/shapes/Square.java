@@ -1,3 +1,5 @@
+package areas.shapes;
+
 public class Square{
 //    Method for finding the area of a square
     public int areas(int l){

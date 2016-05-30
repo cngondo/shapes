@@ -1,3 +1,5 @@
+package areas.shapes;
+
 public class Triangle{
     //Method to find the area oof a triangle
     public double areat(int b, int h){

@@ -1,3 +1,5 @@
+package areas.shapes;
+
 /**
  * Created by ngondo on 10/31/15.
  */
@@ -15,9 +17,9 @@ public class Shapes {
 /* Outputs of different areas to console
 *making the method calls directly
 */
-        System.out.print("\nArea of square side = 67: \n" + square.areas(67));
+        System.out.print("\n Area of square side = 67: \n" + square.areas(67));
 //        System.out.println("\n");
-        System.out.print("\nArea of circle radius = 67: \n" + circle.areac(67));
-        System.out.print("\nArea of square triangle base=67, height=20: \n" + triangle.areat(67,20));
+        System.out.print("\n Area of circle radius = 70: \n" + circle.areac(70));
+        System.out.print("\n Area of square triangle base=67, height=20: \n" + triangle.areat(67,20));
     }
 }
